@@ -1,5 +1,5 @@
 # zabbix
-just another zabbix api wrapper
+Async zabbix api wrapper
 
 # usage
     import zabbix
